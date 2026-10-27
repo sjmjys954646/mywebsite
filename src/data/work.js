@@ -5,7 +5,7 @@ export const works = [
     type: 'Current Research',
     title: 'Title withheld for anonymous review',
     authors: '',
-    venue: 'Submitted to ACM CHI 2027 · Under Review',
+    venue: 'ACM CHI 2027 · Under Review',
     visual: 'anonymous',
     links: [],
     detailMeta: [
@@ -104,7 +104,7 @@ export const works = [
     type: 'Team Project',
     title: 'Circle Game',
     authors: 'Developer & Music · with GGanari',
-    venue: "Beginner's Jam March 2025 · Godot",
+    venue: "Beginner's Jam · March 2025",
     images: [
       { src: './assets/projects/circle-game/0.png', alt: 'Circle Game teaser' },
       { src: './assets/projects/circle-game/1.png', alt: 'Circle Game screenshot 1' },
