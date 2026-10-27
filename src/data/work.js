@@ -64,7 +64,7 @@ export const works = [
     type: 'Research Project',
     title: 'G-MAO: Gaze-Grounded Multi-Agent Orchestration for XR Document Understanding',
     authors: 'YunSu Lee, Seungwon Kim',
-    venue: 'ICUFN 2026 · 3-page conference paper',
+    venue: 'ICUFN 2026',
     images: [
       { src: './assets/projects/gmao/0.png', alt: 'G-MAO research teaser' },
     ],
