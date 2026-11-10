@@ -1,18 +1,17 @@
 export const works = [
-  {
+    {
     slug: 'current-work',
     kind: 'current',
-    type: 'Current Research',
-    title: 'Title withheld for anonymous review',
-    authors: '',
-    venue: 'ACM CHI 2027 · Under Review',
+    type: 'Work in Progress',
+    title: 'Following the Team, Joining the Work: Agent–Agent Communication Transparency and Human Collaborative Role in Multi-Agent Collaboration',
+    authors: 'YunSu Lee et al.',
+    venue: 'Manuscript in Preparation',
     visual: 'anonymous',
     links: [],
     detailMeta: [
-      ['Status', 'Under Review'],
-      ['Venue', 'ACM CHI 2027'],
+      ['Status', 'Manuscript in Preparation'],
     ],
-    statusText: 'This work is currently under anonymous review. Additional details will be added after the review process.'
+    statusText: 'This research investigates how agent–agent communication transparency and human collaborative roles influence human–AI collaboration in multi-agent environments. The manuscript is currently being prepared for submission.'
   },
   {
     slug: 'gesture-amplification',
